@@ -1,0 +1,4 @@
+{
+  "extends": "vtex-react/gatsby",
+  "root": true
+}

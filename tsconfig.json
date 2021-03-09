@@ -1,0 +1,9 @@
+{
+  "extends": "@vtex/tsconfig",
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "module": "ESNext"
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules", "public"]
+}
