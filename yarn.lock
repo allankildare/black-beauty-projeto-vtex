@@ -2350,6 +2350,19 @@
     intl-messageformat-parser "^6.0.18"
     react-intl "^5.7.1"
 
+"@vtex/gatsby-plugin-i18n@^0.277.2":
+  version "0.277.2"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-i18n/-/gatsby-plugin-i18n-0.277.2.tgz#8c2352bb7f74137a737104cf62a6db4d1577a342"
+  integrity sha512-/VslNY2dED07SMMDFCM0mL8H9foXfxeWJ/ZqAJsE8GxrzsApTxiVmTVkljNSGBuw7BZ68LlNoi6bdUDPJkbjmw==
+  dependencies:
+    "@babel/parser" "^7.12.7"
+    "@babel/preset-typescript" "^7.12.7"
+    "@babel/register" "^7.12.1"
+    "@babel/traverse" "^7.12.9"
+    "@babel/types" "^7.12.7"
+    intl-messageformat-parser "^6.0.18"
+    react-intl "^5.7.1"
+
 "@vtex/gatsby-plugin-nginx@0.275.0":
   version "0.275.0"
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-nginx/-/gatsby-plugin-nginx-0.275.0.tgz#faa66185b29f9981abf00c00adb5f1d6398dd91c"
@@ -2418,7 +2431,25 @@
   resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.6.tgz#31762608d9a59b815b6d4e963e439b12f1a12279"
   integrity sha512-nXE3BcMODomFK3EowfK+Hdj2qQRqB8JcdRv8yTREXnN9xq8DYKmH/dWB+RY/Hn3KozFLbygpZRbqYsiA6HDINQ==
 
-"@vtex/store-ui@0.275.0", "@vtex/store-ui@^0.275.0":
+"@vtex/store-ui@0.277.2":
+  version "0.277.2"
+  resolved "https://registry.yarnpkg.com/@vtex/store-ui/-/store-ui-0.277.2.tgz#9c8a77839c6f7f9aa2f767e3a9edd88d78e05482"
+  integrity sha512-NqT94naGjU8jLoLKMusYEK6PPOrtAvlMwDfKIWQi1bwer51/4RXXqfdMi87qmmUrgUxLQcaNxmSGt7q/3jl9Fw==
+  dependencies:
+    "@theme-ui/match-media" "^0.3.1"
+    "@theme-ui/preset-base" "^0.3.0"
+    "@types/theme-ui__components" "^0.2.6"
+    "@vtex-components/accordion" "^0.2.3"
+    "@vtex-components/drawer" "^0.2.4"
+    "@vtex/gatsby-plugin-i18n" "^0.277.2"
+    deepmerge "^4.2.2"
+    gatsby-link "^2.4.13"
+    react-swipeable "^6.0.0"
+    reakit "^1.3.0"
+    text-mask-core "^5.1.2"
+    theme-ui "^0.3.1"
+
+"@vtex/store-ui@^0.275.0":
   version "0.275.0"
   resolved "https://registry.yarnpkg.com/@vtex/store-ui/-/store-ui-0.275.0.tgz#b1e8107d61e1837221ee2bc801dc816891e98f02"
   integrity sha512-6SMe/vvtXZjaiRcxxKXKwv1i7yECCT0A4D1jRoDwFVYAZKkBZ8O1hYHeI8Elv6v/OI4VUf4k/KvPBy6XKkf94A==
