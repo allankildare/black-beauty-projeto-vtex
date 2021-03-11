@@ -1,5 +1,64 @@
+<h1 align="center">
+  Qual o objetivo da entrega
+</h1>
+
+<p>Aprender um padrão de ecomerce Vtex</p>
+
+<h1 align="center">
+  Qual o desafio resolvido
+</h1>
+
+<p></p>
+
+<h1 align="center">
+  Como o repositório está organizado
+</h1>
+
+<p></p>
+ 
+## O que fazemos?
+
+## **Autores:**
+  
+<img src="https://github.com/fernandaturbay.png" width="100" height="100">
+
+**Fernanda Turbay**
+
+- Meus projetos - [GitHub](https://github.com/fernandaturbay)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/fernandaturbay/)
+
+
+<img src="https://github.com/viniciusalmeidas.png" width="100" height="100">
+
+**Vinícius Almeida
+
+- Meus projetos - [GitHub](https://github.com/viniciusalmeidas)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/valmsou/?originalSubdomain=br)
+
+<img src="https://github.com/Marcusvinimf.png" width="100" height="100">
+
+**Marcus Vinicius**
+- Meus projetos - [GitHub](https://github.com/Marcusvinimf)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/marcus-v-marinho/)
+
+<img src="https://github.com/greiciane93x.png" width="100" height="100">
+
+**Greiciane Assis**
+
+- Meus projetos - [GitHub](https://github.com/greiciane93x)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/greiciane-araujo/)
+
+
+<img src="https://github.com/allankildare.png" width="100" height="100">
+
+**Allan Kildare**
+
+- Meus projetos - [GitHub](https://github.com/allankildare)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/allankildare/)
+
+  
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://storetheme.vtex.com/">
     <img alt="Gatsby" src="https://storecomponents.vtexassets.com/arquivos/store-theme-logo.png" width="250" />
   </a>
@@ -106,6 +165,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on their website
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 ## ⚡ Performance
-This project uses Google's Lighthouse CI for analyzing the store's performance and setting performance budgets. The URLs tested can be found and changed in the `ci.collect.url` property. Feel free to change this at your will 
+This project uses Google's Lighthouse CI for analyzing the store's performance and setting performance budgets. The URLs tested can be found and changed in the `ci.collect.url` property. Feel free to change this at your will  -->
 
 <!-- AUTO-GENERATED-CONTENT:END -->
