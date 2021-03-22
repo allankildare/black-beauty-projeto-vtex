@@ -6,9 +6,9 @@ const StoreHeaderOverMenu: FC<{ variant?: string }> = ({ variant }) => (
   <Box variant={variant}>
     <Flex>
       <LocalizedLink className="first" to="/">
-        Shop
+        About us
       </LocalizedLink>
-      <LocalizedLink to="/about">About us</LocalizedLink>
+      <LocalizedLink to="/about">Store</LocalizedLink>
     </Flex>
     <Flex>
       <LinkUI className="last" target="blank" href="https://vtex.com">
