@@ -2141,6 +2141,13 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-modal@^3.12.0":
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/@types/react-modal/-/react-modal-3.12.0.tgz#91fa86a76fd7fc57e36d2cf9b76efe5735a855a1"
+  integrity sha512-UnHu/YO73NZLwqFpju/c0tqiswR0UHIfeO16rkfLVJUIMfQsl7X0CBm99H5XXgBMe/PgtQ/Rkud72iuRBr1TeA==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react@*":
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.1.tgz#eb1f1407dea8da3bc741879c1192aa703ab9975b"
@@ -2350,6 +2357,19 @@
     intl-messageformat-parser "^6.0.18"
     react-intl "^5.7.1"
 
+"@vtex/gatsby-plugin-i18n@^0.278.0":
+  version "0.278.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-i18n/-/gatsby-plugin-i18n-0.278.0.tgz#619d639f090c8204b66d5672ee2ae9cfc9313ab4"
+  integrity sha512-9tkd8nfl6E+qwam8ueT8V5N5bAvbGuHp2KiWwyR9JeYcUgdGqnHPIQgZJ5OSc0dDMWWFbJqp9UP5PbuC71IeoQ==
+  dependencies:
+    "@babel/parser" "^7.12.7"
+    "@babel/preset-typescript" "^7.12.7"
+    "@babel/register" "^7.12.1"
+    "@babel/traverse" "^7.12.9"
+    "@babel/types" "^7.12.7"
+    intl-messageformat-parser "^6.0.18"
+    react-intl "^5.7.1"
+
 "@vtex/gatsby-plugin-nginx@0.275.0":
   version "0.275.0"
   resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-nginx/-/gatsby-plugin-nginx-0.275.0.tgz#faa66185b29f9981abf00c00adb5f1d6398dd91c"
@@ -2418,7 +2438,26 @@
   resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.6.tgz#31762608d9a59b815b6d4e963e439b12f1a12279"
   integrity sha512-nXE3BcMODomFK3EowfK+Hdj2qQRqB8JcdRv8yTREXnN9xq8DYKmH/dWB+RY/Hn3KozFLbygpZRbqYsiA6HDINQ==
 
-"@vtex/store-ui@0.275.0", "@vtex/store-ui@^0.275.0":
+"@vtex/store-ui@0.278.0":
+  version "0.278.0"
+  resolved "https://registry.yarnpkg.com/@vtex/store-ui/-/store-ui-0.278.0.tgz#cea57561ccefab838605bb7dcc3ac276d1e31207"
+  integrity sha512-HyOciZRMWGr4SLrlkAzzD6R2I9H+948Szbh1eo5HO3L0y65bRThquzxzpi2+DbnzvDCq5/KogNAZ+JAN5o1cfw==
+  dependencies:
+    "@theme-ui/match-media" "^0.3.1"
+    "@theme-ui/preset-base" "^0.3.0"
+    "@types/react-modal" "^3.12.0"
+    "@types/theme-ui__components" "^0.2.6"
+    "@vtex-components/accordion" "^0.2.3"
+    "@vtex-components/drawer" "^0.2.4"
+    "@vtex/gatsby-plugin-i18n" "^0.278.0"
+    deepmerge "^4.2.2"
+    gatsby-link "^2.4.13"
+    react-swipeable "^6.0.0"
+    reakit "^1.3.0"
+    text-mask-core "^5.1.2"
+    theme-ui "^0.3.1"
+
+"@vtex/store-ui@^0.275.0":
   version "0.275.0"
   resolved "https://registry.yarnpkg.com/@vtex/store-ui/-/store-ui-0.275.0.tgz#b1e8107d61e1837221ee2bc801dc816891e98f02"
   integrity sha512-6SMe/vvtXZjaiRcxxKXKwv1i7yECCT0A4D1jRoDwFVYAZKkBZ8O1hYHeI8Elv6v/OI4VUf4k/KvPBy6XKkf94A==
