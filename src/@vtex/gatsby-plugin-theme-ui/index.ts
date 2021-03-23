@@ -22,7 +22,9 @@ import { searchTheme } from './searchFilter'
 import footer from './footer'
 import searchSuggestionsTheme from './searchSuggestions'
 import sliderTheme from './slider'
+// criados
 import mainCover from './mainCover'
+import aboveTheFoldContainer from './aboveTheFold'
 
 export default createTheme(
   searchBannerTheme,
@@ -46,5 +48,6 @@ export default createTheme(
   authTheme,
   // criados
   footer,
-  mainCover
+  mainCover,
+  aboveTheFoldContainer
 )

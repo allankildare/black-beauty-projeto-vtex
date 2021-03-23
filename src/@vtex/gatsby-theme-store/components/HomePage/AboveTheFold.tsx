@@ -16,9 +16,14 @@ import type { HomePageQueryQuery } from '../../pages/__generated__/HomePageQuery
 import ShelfProducts from '../Shelf/ShelfProducts'
 import RichTextRow from './RichTextRow'
 import MainCover from '../MainCover'
+// images
+import carla from '../../../../images/black/carla.png'
+import rose from '../../../../images/black/rose.png'
+import beauty from '../../../../images/black/beauty.png'
+import honest from '../../../../images/black/honest.png'
 
 type Props = PageProps<HomePageQueryQuery>
-
+const variant = 'aboveTheFoldContainer'
 const Fold: FC<Props> = ({ data: { content, vtex } }) => (
   <>
     {/* <Carousel
@@ -30,43 +35,19 @@ const Fold: FC<Props> = ({ data: { content, vtex } }) => (
     <MainCover />
     {/* <RichTextRow /> */}
     {/* produtos */}
-    <Container sx={{ background: '#FAF7F1', fontFamily: 'DM Sans' }}>
-      <div style={{}}>
-        <Text
-          sx={{
-            fontFamily: 'DM Sans',
-            textAlign: 'center',
-            textTransform: 'uppercase',
-            color: '#878695',
-            fontSize: '15px',
-            paddingTop: '80px',
-          }}
-        >
-          Our Inspirations
-        </Text>
-        <Text
-          sx={{
-            fontFamily: 'DM Sans',
-            textAlign: 'center',
-            fontSize: '36px',
-            fontWeight: '500',
-            color: '#272639',
-            lineHeight: 1.1,
-            padding: '12px 0 30px',
-          }}
-        >
-          Meet the <span style={{ textDecoration: 'line-through' }}>faces</span>{' '}
-          skins behind
-          <br />
-          our new collection.
-        </Text>
-      </div>
+    <Container variant={`${variant}`}>
+      <Text variant={`${variant}.inspirations`}>Our Inspirations</Text>
+      <Text variant={`${variant}.meetSkins`}>
+        Meet the <span style={{ textDecoration: 'line-through' }}>faces</span>{' '}
+        skins behind
+        <br />
+        our new collection.
+      </Text>
       <Flex sx={{ justifyContent: 'center' }}>
         <Box
+          variant={`${variant}.boxAbove`}
           sx={{
-            width: '350px',
-            height: '440px',
-            backgroundColor: '#858292',
+            backgroundImage: `url(${carla})`,
             marginRight: '20px',
             position: 'relative',
           }}
@@ -119,10 +100,9 @@ const Fold: FC<Props> = ({ data: { content, vtex } }) => (
         </Box>
 
         <Box
+          variant={`${variant}.boxAbove`}
           sx={{
-            width: '350px',
-            height: '440px',
-            backgroundColor: '#CBA9B2',
+            backgroundImage: `url(${rose})`,
             position: 'relative',
           }}
         >
@@ -186,10 +166,9 @@ const Fold: FC<Props> = ({ data: { content, vtex } }) => (
 
       <Flex sx={{ justifyContent: 'center', paddingBottom: '50px' }}>
         <Grid
+          variant={`${variant}.boxAbove`}
           sx={{
-            width: '350px',
-            height: '440px',
-            backgroundColor: '#324C2F',
+            backgroundImage: `url(${beauty})`,
             placeItems: 'center',
             marginRight: '20px',
           }}
@@ -216,10 +195,9 @@ const Fold: FC<Props> = ({ data: { content, vtex } }) => (
           </Text>
         </Grid>
         <Grid
+          variant={`${variant}.boxAbove`}
           sx={{
-            width: '350px',
-            height: '440px',
-            backgroundColor: '#EBB8CB',
+            backgroundImage: `url(${honest})`,
             placeItems: 'center',
             position: 'relative',
           }}
