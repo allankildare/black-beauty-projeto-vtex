@@ -1,22 +1,56 @@
-<h1 align="center">
+<p align="center">
+  <a href="https://storetheme.vtex.com/">
+    🚀  <img alt="Gatsby" src="https://storecomponents.vtexassets.com/arquivos/store-theme-logo.png" width="250" />
+  </a>
+</p>
+<h2 align="center">
+  GRUPO 01 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
+</h2>
+
+<h2 align="center">
   Qual o objetivo da entrega
-</h1>
+</h2>
 
-<p>Aprender um padrão de ecomerce Vtex</p>
+- **Loja (e-commerce) funcional e responsiva, utilizando o Store Framework**
+- **Lista de desejos**
+    - Desenvolvimento do backend customizado
+    - Experiência do usuário perfomática
 
-<h1 align="center">
-  Qual o desafio resolvido
-</h1>
+<hr>
+<h2 align="center">
+  Qual o desafio resolvido?
+</h2>
 
-<p></p>
+*Critérios de avaliação*
 
-<h1 align="center">
+- Responsividade
+- Experiência de Usuário (UX)
+- Interface de Usuário (UI)
+- Performance de Loja 
+- Boas práticas de desenvolvimento web.
+
+<hr>
+
+<h2 align="center">
   Como o repositório está organizado
-</h1>
+</h2>
 
-<p></p>
- 
+<p align="left">
+  <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
+    <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
+  </a>
+</p>
+
+
+
+<hr> 
+
 ## O que fazemos?
+
+
+
+
+<hr>
 
 ## **Autores:**
   
@@ -30,10 +64,10 @@
 
 <img src="https://github.com/viniciusalmeidas.png" width="100" height="100">
 
-**Vinícius Almeida
+**Vinícius Almeida**
 
 - Meus projetos - [GitHub](https://github.com/viniciusalmeidas)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/valmsou/?originalSubdomain=br)
+- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/valmsou/)
 
 <img src="https://github.com/Marcusvinimf.png" width="100" height="100">
 
@@ -56,20 +90,13 @@
 - Meus projetos - [GitHub](https://github.com/allankildare)
 - Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/allankildare/)
 
-  
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<!-- <p align="center">
-  <a href="https://storetheme.vtex.com/">
-    <img alt="Gatsby" src="https://storecomponents.vtexassets.com/arquivos/store-theme-logo.png" width="250" />
-  </a>
-</p>
-<h1 align="center">
-  A store theme powered by VTEX and Gatsby
-</h1>
+<br>
+<br>  
+<hr>
+<br>  
 
-Kick-off your project with this default boilerplate. This starter ships with the main VTEX Store configuration files you might need to get up and running blazing fast with the blazing-fast store for React.
 
-## 🚀 Quick start
+<!--## 🚀 Quick start
 
 0. **Clone this repo**
 
@@ -164,7 +191,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on their website
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## ⚡ Performance
-This project uses Google's Lighthouse CI for analyzing the store's performance and setting performance budgets. The URLs tested can be found and changed in the `ci.collect.url` property. Feel free to change this at your will  -->
+<!--## ⚡ Performance
+This project uses Google's Lighthouse CI for analyzing the store's performance and setting performance budgets. The URLs tested can be found and changed in the `ci.collect.url` property. Feel free to change this at your will  
+-->
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+
