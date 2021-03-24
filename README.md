@@ -23,11 +23,11 @@
 
 *Critérios de avaliação*
 
-- Responsividade
-- Experiência de Usuário (UX)
-- Interface de Usuário (UI)
-- Performance de Loja 
-- Boas práticas de desenvolvimento web.
+- :iphone: Responsividade :heavy_check_mark:
+- :flashlight: Experiência de Usuário (UX) :heavy_check_mark:
+- :cinema: Interface de Usuário (UI) :heavy_check_mark:
+- ⚡ Performance de Loja :heavy_check_mark:
+- :dart: Boas práticas de desenvolvimento web. :heavy_check_mark:
 
 <hr>
 
@@ -52,43 +52,16 @@
 
 <hr>
 
-## **Autores:**
+## **Quem somos:**
   
-<img src="https://github.com/fernandaturbay.png" width="100" height="100">
-
-**Fernanda Turbay**
-
-- Meus projetos - [GitHub](https://github.com/fernandaturbay)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/fernandaturbay/)
-
-
-<img src="https://github.com/viniciusalmeidas.png" width="100" height="100">
-
-**Vinícius Almeida**
-
-- Meus projetos - [GitHub](https://github.com/viniciusalmeidas)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/valmsou/)
-
-<img src="https://github.com/Marcusvinimf.png" width="100" height="100">
-
-**Marcus Vinicius**
-- Meus projetos - [GitHub](https://github.com/Marcusvinimf)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/marcus-v-marinho/)
-
-<img src="https://github.com/greiciane93x.png" width="100" height="100">
-
-**Greiciane Assis**
-
-- Meus projetos - [GitHub](https://github.com/greiciane93x)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/greiciane-araujo/)
+| <img src="https://github.com/fernandaturbay.png" width="150" height="125">  |  <img src="https://github.com/viniciusalmeidas.png" width="150" height="125">  | <img src="https://github.com/Marcusvinimf.png" width="140" height="125"> | <img src="https://github.com/greiciane93x.png" width="150" height="125"> | <img src="https://github.com/allankildare.png" width="150" height="125"> |
+| :--------------: | :--------------: | :---------------: | :--------: | :--------: |
+|  **Fernanda Turbay** |  **Vinícius Almeida de Souza** | **Marcus Vinicius** | **Greiciane Assis** | **Allan Kildare** | 
+| :octocat: [GitHub](https://github.com/fernandaturbay) | :octocat: [GitHub](https://github.com/viniciusalmeidas) | :octocat: [GitHub](https://github.com/Marcusvinimf)| :octocat: [GitHub](https://github.com/greiciane93x) | :octocat: [GitHub](https://github.com/allankildare) |
+| :briefcase: [LinkedIn](https://www.linkedin.com/in/fernandaturbay/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/valmsou/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/marcus-v-marinho/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/greiciane-araujo/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/allankildare/) |
 
 
-<img src="https://github.com/allankildare.png" width="100" height="100">
 
-**Allan Kildare**
-
-- Meus projetos - [GitHub](https://github.com/allankildare)
-- Meus trabalhos - [LinkedIn](https://www.linkedin.com/in/allankildare/)
 
 <br>
 <br>  
