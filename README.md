@@ -47,8 +47,8 @@
 ### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
 
 <p align="left">
-  <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
-    >><img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
+  <a href="https://www.notion.so/P-gina-Inicial-409363ccfd71408090fb2bca6169efea">
+    <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
   </a>
 </p>
 
@@ -122,7 +122,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 ## :moneybag: **Como você pode nos ajudar**
 
-### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/nah7053)
+### [__O que você acha de pagar um café para o time? :coffee:__](https://www.buymeacoffee.com/nah7053)
 
 Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
 
