@@ -4,8 +4,12 @@
   </a>
 </p>
 <h2 align="center">
-  GRUPO 01 - NAH 7350 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
+  VTEX/RESILIA - A store theme powered by VTEX and Gatsby
 </h2>
+<h3 align="center">
+  GRUPO 01 - NAH 7350 BEAUTY
+</h3>
+
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png">
@@ -46,7 +50,7 @@
 
 ### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
 
-<p align="left">
+<p align="center">
   <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
     >><img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
   </a>
