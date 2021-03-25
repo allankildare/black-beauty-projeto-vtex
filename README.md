@@ -107,7 +107,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 - GATSBY - [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 - THEME UI - [Theme UI](https://theme-ui.com/getting-started/)
 - HEROKU - [HEROKU](https://devcenter.heroku.com/categories/reference)
-
+- FIGMA - [FIGMA](https://www.figma.com/file/V8JMmf2csPbFQZZp6CeYmm?embed_host=notion&kind=&node-id=17%3A335&viewer=1)
 <hr>
 
 ## **Quem somos:**
