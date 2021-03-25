@@ -14,7 +14,7 @@ import React from 'react'
 
 import type { HomePageQueryQuery } from '../../pages/__generated__/HomePageQuery.graphql'
 import ShelfProducts from '../Shelf/ShelfProducts'
-import RichTextRow from './RichTextRow'
+// import RichTextRow from './RichTextRow'
 import MainCover from '../MainCover'
 // images
 import carla from '../../../../images/black/carla.png'

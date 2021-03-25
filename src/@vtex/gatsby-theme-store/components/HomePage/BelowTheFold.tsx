@@ -79,16 +79,9 @@ const BelowTheFold: FC<Props> = () => (
         />
       </InfoCard> */}
     </Flex>
-
-    {/* This is an example store built using the VTEX platform.
-    Want to know more? */}
-    {/* <Flex sx={{ justifyContent: 'center', background: '' }}>
-      <RichMarkdown text={exampleStoreMd} variant="question" />
-    </Flex>
-
     <Block>
       <RichMarkdown text={reachUsMd} variant="link" />
-    </Block> */}
+    </Block>
   </>
 )
 
