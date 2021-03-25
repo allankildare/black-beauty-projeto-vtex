@@ -4,7 +4,7 @@
   </a>
 </p>
 <h2 align="center">
-  GRUPO 01 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
+  GRUPO 01 - NAH 7350 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
 </h2>
 
 <p align="center">
@@ -122,9 +122,9 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 ## **Como você pode nos ajudar**
 
-### [__Paga um café para o time! :coffee:__](https://www.buymeacoffee.com/vinialmeida)
+### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/vinialmeida)
 
-Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Paga um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
+Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
 
 Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
 
