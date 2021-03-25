@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
-    >><img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
+    <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
   </a>
 </p>
 
