@@ -48,7 +48,7 @@
   Como o repositório está organizado
 </h2>
 
-### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
+### Você pode acompanhar o desenvolvimento do site através do Notion da Equipe
 
 <p align="center">
   <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
@@ -126,7 +126,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 ## :moneybag: **Como você pode nos ajudar**
 
-### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/nah7053)
+### [__O que você acha de pagar um café para o time! :coffee:__](https://www.buymeacoffee.com/nah7053)
 
 Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
 
