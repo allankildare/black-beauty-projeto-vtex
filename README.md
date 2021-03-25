@@ -120,7 +120,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 <hr>
 
-## **Como você pode nos ajudar**
+## :moneybag: **Como você pode nos ajudar**
 
 ### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/nah7053)
 
