@@ -122,7 +122,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 ## **Como você pode nos ajudar**
 
-### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/vinialmeida)
+### [__Pague um café para o time! :coffee:__](https://www.buymeacoffee.com/nah7053)
 
 Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
 
