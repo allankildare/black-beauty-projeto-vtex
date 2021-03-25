@@ -74,6 +74,7 @@
     ├── 13 tsconfig.json
     ├── 14 vtex.env
     └── 15 README.md
+    └── 16 BP_NAH_7350.pdf
 
 1.  **`/node_modules`**: Contém todas as dependências de projeto (npm package) instaladas automáticamente.
 
@@ -85,23 +86,23 @@
 
 5.  **`.eslintrc.js`**: ESlint é uma ferramenta para localizar e corrigir problemas em seu código JavaScript. [ESLint] (https://eslint.org/). 
 
-6.  **`gatsby-config.js`**: Configuração principal para um site Gatsby. É aqui que você pode especificar informações sobre o seu site como o título e a descrição do site, quais plug-ins Gatsby você gostaria de incluir, etc. (Confira os [documentos de configuração] (https://www.gatsbyjs.org/docs/gatsby-config/) para obter mais detalhes).
+7.  **`gatsby-config.js`**: Configuração principal para um site Gatsby. É aqui que você pode especificar informações sobre o seu site como o título e a descrição do site, quais plug-ins Gatsby você gostaria de incluir, etc. (Confira os [documentos de configuração] (https://www.gatsbyjs.org/docs/gatsby-config/) para obter mais detalhes).
 
-7.  **`gatsby-node.js`**: Este arquivo é onde Gatsby espera encontrar qualquer uso das [APIs Gatsby Node] (https://www.gatsbyjs.org/docs/node-apis/) (se houver). Isso permite a personalização / extensão das configurações padrão de Gatsby que afetam partes do processo de construção do site.
+8.  **`gatsby-node.js`**: Este arquivo é onde Gatsby espera encontrar qualquer uso das [APIs Gatsby Node] (https://www.gatsbyjs.org/docs/node-apis/) (se houver). Isso permite a personalização / extensão das configurações padrão de Gatsby que afetam partes do processo de construção do site.
 
-8.  **`LICENSE`**: Gatsby está sobre a licensa MIT.
+10.  **`LICENSE`**: Gatsby está sobre a licensa MIT.
 
-9. **`package.json`**: Um arquivo de configuração para projetos Node.js, através desse arquivo o npm sabe quais pacotes instalar para o seu projeto.
+11. **`package.json`**: Um arquivo de configuração para projetos Node.js, através desse arquivo o npm sabe quais pacotes instalar para o seu projeto.
 
-10. **`yarn.lock`** Este é um arquivo gerado automaticamente com base nas versões exatas de suas dependências npm que foram instaladas para seu projeto. ** (Você não mudará este arquivo diretamente). **
+12. **`yarn.lock`** Este é um arquivo gerado automaticamente com base nas versões exatas de suas dependências npm que foram instaladas para seu projeto. ** (Você não mudará este arquivo diretamente). **
 
-11. **`tsconfig.json`**: Contém a configuração para o compilador TypeScript. Irá analisar estaticamente o seu código em busca de erros e bugs antes de colocá-los em produção
+13. **`tsconfig.json`**: Contém a configuração para o compilador TypeScript. Irá analisar estaticamente o seu código em busca de erros e bugs antes de colocá-los em produção
 
-12. **`vtex.env`**: Variáveis de ambiente necessárias para acessar sua conta na VTEX
+14. **`vtex.env`**: Variáveis de ambiente necessárias para acessar sua conta na VTEX
 
-13. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
+15. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-
+16. **`BP NAH 7355.pdf`** Nosso plano de negócios
 <hr> 
 
 ## O que fizemos?
