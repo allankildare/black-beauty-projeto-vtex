@@ -35,6 +35,8 @@
   Como o repositório está organizado
 </h2>
 
+### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
+
 <p align="left">
   <a href="https://www.notion.so/O-que-precisamos-entregar-e50df132e5fb49598cb8e4b11a8c9cdf#951dd5a09c344ebab38250854fd6265d">
     <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
@@ -45,10 +47,13 @@
 
 <hr> 
 
-## O que fazemos?
+## O que fizemos?
 
+Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
-
+GATSBY - [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+THEME UI - [Theme UI](https://theme-ui.com/getting-started/)
+HEROKU - [HEROKU](https://devcenter.heroku.com/categories/reference)
 
 <hr>
 
@@ -168,7 +173,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on their website
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-<!--## ⚡ Performance
+## ⚡ Performance
 This project uses Google's Lighthouse CI for analyzing the store's performance and setting performance budgets. The URLs tested can be found and changed in the `ci.collect.url` property. Feel free to change this at your will  
 -->
 
