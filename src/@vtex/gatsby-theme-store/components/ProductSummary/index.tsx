@@ -53,6 +53,7 @@ const ProductSummary: FC<Props> = ({
     items: [sku],
     productName,
   } = (product as unknown) as Product
+  console.log(product)
 
   const {
     images: [{ imageUrl, imageText }],

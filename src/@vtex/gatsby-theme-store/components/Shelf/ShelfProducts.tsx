@@ -9,6 +9,7 @@ const pageSizes = [1, 3, 4]
 const ShelfProducts: FC<Props> = (props) => (
   <ShelfContainer>
     <Shelf {...props} pageSizes={pageSizes} />
+    {console.log(pageSizes, )}
   </ShelfContainer>
 )
 

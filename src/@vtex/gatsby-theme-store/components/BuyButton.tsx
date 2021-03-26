@@ -34,13 +34,14 @@ const styles: SxStyleProp = {
 const BuyButton: FC<Props> = ({ sku }) => {
   const { formatMessage } = useIntl()
   const { loading, ...props } = useBuyButton({ sku, quantity: 1 })
-
+  console.log("imagem", sku.images[0].imageUrl)
+  console.log("procurar", formatMessage)
   return (
     <Button sx={styles} {...props}>
       {loading ? (
         <Spinner size="20px" />
       ) : (
-        formatMessage({ id: 'buy-button.add-to-cart' })
+        formatMessage({ id: 'Adicionar ao Carrinho' })
       )}
     </Button>
   )

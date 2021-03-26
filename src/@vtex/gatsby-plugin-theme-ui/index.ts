@@ -21,8 +21,10 @@ import searchBarTheme from './searchBar'
 import { searchTheme } from './searchFilter'
 import searchSuggestionsTheme from './searchSuggestions'
 import sliderTheme from './slider'
+import footerTheme from './footer'
 
 export default createTheme(
+  footerTheme,
   searchBannerTheme,
   base,
   breadcrumb,
