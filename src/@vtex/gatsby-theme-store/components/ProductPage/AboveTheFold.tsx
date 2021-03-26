@@ -15,8 +15,12 @@ import { isServer } from '@vtex/gatsby-theme-store/src/utils/env'
 import AsyncInfoContainer from './Above/Async/Container'
 import AsyncInfoPreview from './Above/Async/Preview'
 import AsyncInfo from './Above/Async'
+import RelatedProducts from '../RelatedProducts'
 
-const variant = 'default'
+// fonts
+import "@fontsource/dm-sans"
+import "@fontsource/playfair-display"
+
 
 type Props = {
   data: {
@@ -51,27 +55,35 @@ const AboveTheFold: FC<Props> = ({
   const videoItems = useDetailsVideos(videos, productName)
   const galleryItems = [...imageItems, ...videoItems]
 
-  return (
-    <Flex variant="productPage.container">
-      <Container>
-        <Breadcrumb breadcrumb={breadcrumb} type="PRODUCT" />
-        <Grid my={4} mx="auto" gap={[0, 3]} columns={[1, '60% 40%']}>
-          <ProductImageGallery allItems={galleryItems} />
+  const variant = 'productPageContainer'
 
-          <Card>
-            <ProductDetailsTitle variant={variant}>
+  return (
+    <Flex variant={`${variant}`}>
+      <Container variant={`${variant}.container`}>
+        <Breadcrumb breadcrumb={breadcrumb} type="PRODUCT" />
+        
+        {/* grid delicinha que tem o produto e informacoes */}
+        <Grid my={4} mx="auto" gap={[0, 3]} columns={[1, '60% 40%']}>
+          <ProductImageGallery allItems={galleryItems}  />
+
+          <Card variant={`${variant}.container.card`}>
+            {/* titulo */}
+            <ProductDetailsTitle variant={`${variant}.container.title`}>
               {productName}
             </ProductDetailsTitle>
 
-            <AsyncInfoContainer>
+            {/* informacoes */}
+            <AsyncInfoContainer >
               {isServer ? null : (
                 <Suspense fallback={<AsyncInfoPreview />}>
                   <AsyncInfo slug={slug} />
                 </Suspense>
               )}
             </AsyncInfoContainer>
+
           </Card>
         </Grid>
+        <RelatedProducts />
       </Container>
     </Flex>
   )

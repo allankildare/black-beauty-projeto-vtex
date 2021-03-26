@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.23.0",
   "dependencies": {
+    "@fontsource/dm-sans": "^4.2.2",
+    "@fontsource/playfair-display": "^4.2.2",
+    "@fontsource/rubik": "^4.2.2",
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@vtex/gatsby-plugin-cms": "^0.275.0",
     "@vtex/gatsby-plugin-google-tag-manager": "0.276.0",
     "@vtex/gatsby-plugin-graphql": "^0.275.0",
@@ -58,5 +62,16 @@
     "*.json": [
       "prettier --write"
     ]
-  }
+  },
+  "description": "<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->\r <p align=\"center\">\r   <a href=\"https://storetheme.vtex.com/\">\r     <img alt=\"Gatsby\" src=\"https://storecomponents.vtexassets.com/arquivos/store-theme-logo.png\" width=\"250\" />\r   </a>\r </p>\r <h1 align=\"center\">\r   A store theme powered by VTEX and Gatsby\r </h1>",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allankildare/black-beauty-projeto-vtex.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/allankildare/black-beauty-projeto-vtex/issues"
+  },
+  "homepage": "https://github.com/allankildare/black-beauty-projeto-vtex#readme"
 }

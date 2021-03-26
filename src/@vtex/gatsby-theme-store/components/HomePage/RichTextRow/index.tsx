@@ -1,4 +1,5 @@
-import React, { FC } from 'react'
+import type { FC } from 'react'
+import React from 'react'
 import { Box, Flex, Grid, RichMarkdown } from '@vtex/store-ui'
 
 import freeShippingHtml from './free-shipping.md'
@@ -29,9 +30,10 @@ const RowItemContainer: FC = ({ children }) => (
 
 const MAX_ITEMS = [1, 4]
 
+// abaixo do carrossel
 const RichTextRow: FC = () => (
   <FullWidthContainer>
-    <Box backgroundColor="#6b7381">
+    <Box backgroundColor="#79816b">
       <Grid gap={2} columns={MAX_ITEMS}>
         <RowItemContainer>
           <BoxImg />
