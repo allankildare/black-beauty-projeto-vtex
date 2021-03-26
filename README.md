@@ -4,7 +4,7 @@
   </a>
 </p>
 <h2 align="center">
-  GRUPO 01 - NAH 7350 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
+  GRUPO 01 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
 </h2>
 <p align="center">
   <a href="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png">
