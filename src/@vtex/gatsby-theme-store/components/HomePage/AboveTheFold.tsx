@@ -16,6 +16,11 @@ import type { HomePageQueryQuery } from '../../pages/__generated__/HomePageQuery
 import ShelfProducts from '../Shelf/ShelfProducts'
 // import RichTextRow from './RichTextRow'
 import MainCover from '../MainCover'
+
+// fonts
+import "@fontsource/dm-sans"
+import "@fontsource/playfair-display"
+
 // images
 import carla from '../../../../images/black/carla.png'
 import rose from '../../../../images/black/rose.png'

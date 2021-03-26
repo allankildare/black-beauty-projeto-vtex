@@ -18,13 +18,15 @@ import { productQuantityTheme } from './productQuantity'
 import productSummaryTheme from './productSummary'
 import { searchBannerTheme } from './searchBanner'
 import searchBarTheme from './searchBar'
-import { searchTheme } from './searchFilter'
 import footer from './footer'
+import { searchTheme } from './searchFilter'
 import searchSuggestionsTheme from './searchSuggestions'
 import sliderTheme from './slider'
 // criados
 import mainCover from './mainCover'
 import aboveTheFoldContainer from './aboveTheFold'
+import productPageContainer from './aboveTheFoldProductPage'
+import headerBlackBeauty from './header'
 
 export default createTheme(
   searchBannerTheme,
@@ -49,5 +51,7 @@ export default createTheme(
   // criados
   footer,
   mainCover,
-  aboveTheFoldContainer
+  aboveTheFoldContainer,
+  productPageContainer,
+  headerBlackBeauty
 )

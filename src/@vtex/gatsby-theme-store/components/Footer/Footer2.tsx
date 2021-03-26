@@ -8,12 +8,12 @@ const mailingList: FC = () => {
   return (
     <Flex sx={{ flexDirection: 'column' }} variant={`${variant}.footer2`}>
       <Box>
-        <Heading variant={`${variant}.mailingList`}>
+        <Heading sx={{marginBottom: '15px'}}>
           Join Our
           <br />
           Mailing List
         </Heading>
-        <Text>
+        <Text sx={{marginBottom: '30px'}}>
           Sign up now and be the first to know about exclusive offers.
         </Text>
         <Input placeholder="Enter your e-mail" />

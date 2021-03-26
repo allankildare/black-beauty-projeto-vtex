@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.23.0",
   "dependencies": {
+    "@fontsource/dm-sans": "^4.2.2",
+    "@fontsource/playfair-display": "^4.2.2",
+    "@fontsource/rubik": "^4.2.2",
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@vtex/gatsby-plugin-cms": "^0.275.0",
     "@vtex/gatsby-plugin-google-tag-manager": "0.276.0",
     "@vtex/gatsby-plugin-graphql": "^0.275.0",

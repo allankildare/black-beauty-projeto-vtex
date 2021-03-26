@@ -1,4 +1,4 @@
-import { Box, Flex, Link as LinkUI, LocalizedLink } from '@vtex/store-ui'
+import { Box, Flex, Heading, Link as LinkUI, LocalizedLink } from '@vtex/store-ui'
 import React from 'react'
 import type { FC } from 'react'
 
@@ -9,6 +9,7 @@ const StoreHeaderOverMenu: FC<{ variant?: string }> = ({ variant }) => (
         About us
       </LocalizedLink>
       <LocalizedLink to="/about">Store</LocalizedLink>
+      <Heading>Black/Beauty</Heading>
     </Flex>
     <Flex>
       <LinkUI className="last" target="blank" href="https://vtex.com">

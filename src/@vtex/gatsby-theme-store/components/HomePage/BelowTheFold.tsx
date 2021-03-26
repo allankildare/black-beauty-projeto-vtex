@@ -4,20 +4,19 @@ import {
   Text,
   Button,
   Image,
-  Grid,
-  InfoCard,
-  InfoCardImage,
-  InfoCardInfo,
-  InfoCardInfoAction,
   RichMarkdown,
 } from '@vtex/store-ui'
 import type { PageProps } from 'gatsby'
 import type { FC } from 'react'
 import React from 'react'
 
+// fonts
+import "@fontsource/dm-sans"
+import "@fontsource/playfair-display"
+
+// images
 import blackSkin from '../../../../images/black/take_care.png'
 import type { HomePageQueryQuery } from '../../pages/__generated__/HomePageQuery.graphql'
-import exampleStoreMd from './example-store.md'
 import reachUsMd from './reach-us.md'
 
 type Props = PageProps<HomePageQueryQuery>
