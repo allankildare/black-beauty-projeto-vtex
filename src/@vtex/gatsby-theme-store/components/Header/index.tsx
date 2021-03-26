@@ -55,6 +55,7 @@ const StoreHeader: FC = () => {
           </Grid>
 
           <Flex sx={{justifyContent: 'center'}}>
+            <Link sx={{ marginRight: '60px' }} href="/">Home</Link>
             <Link sx={{ marginRight: '60px' }} href="#!">Hair</Link>
             <Link sx={{ marginRight: '60px' }} href="#!">Make-up</Link>
             <Link href="#!">Perfume</Link>
