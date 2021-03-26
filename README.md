@@ -6,13 +6,11 @@
 <h2 align="center">
   GRUPO 01 - NAH 7350 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
 </h2>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png">
     <img alt="Banner Site" src="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png" width="650" />
   </a>
 </p>
-
 
 <h2 align="center">
   Qual o objetivo da entrega ?
@@ -37,8 +35,6 @@
 - :dart: Boas práticas de desenvolvimento web. :heavy_check_mark:
 
 <hr>
-
-
 
 <h2 align="center">
   Como o repositório está organizado
@@ -97,7 +93,6 @@
 
 13. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-
 <hr> 
 
 ## O que fizemos?
@@ -127,7 +122,6 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
 
 Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
-
 
 <!--## 🚀 Quick start
 
@@ -168,7 +162,6 @@ Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
     Open the `my-awesome-store` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real-time!
-
 
 ## 🎓 Learning Gatsby
 
