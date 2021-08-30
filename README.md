@@ -3,18 +3,13 @@
     🚀  <img alt="Gatsby" src="https://storecomponents.vtexassets.com/arquivos/store-theme-logo.png" width="250" />
   </a>
 </p>
-<h2 align="center">
-  GRUPO 01 - VTEX/RESILIA - A store theme powered by VTEX and Gatsby
-</h2>
+
+## VTEX/RESILIA - A store theme powered by VTEX and Gatsby
 <p align="center">
-  <a href="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png">
     <img alt="Banner Site" src="https://raw.githubusercontent.com/allankildare/black-beauty-projeto-vtex/README-viniciusalmeidas-alteracao/src/images/blackROSA.png" width="650" />
-  </a>
 </p>
 
-<h2 align="center">
-  Qual o objetivo da entrega ?
-</h2>
+### Qual o objetivo da entrega ?
 
 - **Loja (e-commerce) funcional e responsiva, utilizando o Store Framework**
 - **Lista de desejos**
@@ -22,9 +17,8 @@
     - Experiência do usuário perfomática
 
 <hr>
-<h2 align="center">
-  Qual o desafio resolvido?
-</h2>
+
+### Qual o desafio resolvido?
 
 *Critérios de avaliação*
 
@@ -36,17 +30,14 @@
 
 <hr>
 
-<h2 align="center">
-  Como o repositório está organizado
-</h2>
 
-### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
+### Como o repositório está organizado
 
-<p align="left">
-  <a href="https://www.notion.so/P-gina-Inicial-409363ccfd71408090fb2bca6169efea">
-    <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
-  </a>
-</p>
+#### Você pode observar qual foi nossa organização através do Notion
+
+<a href="https://www.notion.so/P-gina-Inicial-409363ccfd71408090fb2bca6169efea">
+  <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
+</a>
 
 ### 🧐 Olhando os arquivos
 
@@ -95,14 +86,14 @@
 
 <hr> 
 
-## O que fizemos?
+### O que fizemos?
 
 Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
-- GATSBY - [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-- THEME UI - [Theme UI](https://theme-ui.com/getting-started/)
-- HEROKU - [HEROKU](https://devcenter.heroku.com/categories/reference)
-- FIGMA - [FIGMA](https://www.figma.com/file/V8JMmf2csPbFQZZp6CeYmm?embed_host=notion&kind=&node-id=17%3A335&viewer=1)
+- [Gatsby](https://www.gatsbyjs.org/)
+- [Theme UI](https://theme-ui.com/getting-started/)
+- [HEROKU](https://devcenter.heroku.com/categories/reference)
+- [Figma](https://www.figma.com/file/V8JMmf2csPbFQZZp6CeYmm?embed_host=notion&kind=&node-id=17%3A335&viewer=1)
 <hr>
 
 ## **Quem somos:**
