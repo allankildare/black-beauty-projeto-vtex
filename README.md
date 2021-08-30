@@ -16,8 +16,6 @@
     - Desenvolvimento do backend customizado
     - Experiência do usuário perfomática
 
-<hr>
-
 ### Qual o desafio resolvido?
 
 *Critérios de avaliação*
@@ -27,9 +25,6 @@
 - :cinema: Interface de Usuário (UI) :heavy_check_mark:
 - ⚡ Performance de Loja :heavy_check_mark:
 - :dart: Boas práticas de desenvolvimento web. :heavy_check_mark:
-
-<hr>
-
 
 ### Como o repositório está organizado
 
@@ -84,8 +79,6 @@
 
 13. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-<hr> 
-
 ### O que fizemos?
 
 Montagem de uma loja com tema predefinido pela VTEX utilizando:
@@ -94,7 +87,6 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 - [Theme UI](https://theme-ui.com/getting-started/)
 - [HEROKU](https://devcenter.heroku.com/categories/reference)
 - [Figma](https://www.figma.com/file/V8JMmf2csPbFQZZp6CeYmm?embed_host=notion&kind=&node-id=17%3A335&viewer=1)
-<hr>
 
 ## **Quem somos:**
   
