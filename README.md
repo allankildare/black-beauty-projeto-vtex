@@ -113,16 +113,6 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 | :octocat: [GitHub](https://github.com/fernandaturbay) | :octocat: [GitHub](https://github.com/viniciusalmeidas) | :octocat: [GitHub](https://github.com/Marcusvinimf)| :octocat: [GitHub](https://github.com/greiciane93x) | :octocat: [GitHub](https://github.com/allankildare) |
 | :briefcase: [LinkedIn](https://www.linkedin.com/in/fernandaturbay/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/valmsou/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/marcus-v-marinho/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/greiciane-araujo/) | :briefcase: [LinkedIn](https://www.linkedin.com/in/allankildare/) |
 
-<hr>
-
-## :moneybag: **Como você pode nos ajudar**
-
-### [__O que você acha de pagar um café para o time? :coffee:__](https://www.buymeacoffee.com/nah7053)
-
-Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café para o time :coffee:__](https://www.buymeacoffee.com/nah7053). 
-
-Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
-
 <!--## 🚀 Quick start
 
 0. **Clone this repo**
